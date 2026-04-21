@@ -11,8 +11,10 @@ Short Intro
 
 <img width="1280" height="1600" alt="image" src="https://github.com/user-attachments/assets/d3332027-1039-4a4f-bfb7-af4c592f4b35" />
 
+
 👋 Hi, I'm Ajay — Datacenter Infrastructure Operations Engineer
 🏢 Keeping Digital Foundations Resilient | ⚡ Mission-Critical Load Specialist | 🎓 CDCP Certified
+
 Welcome to my GitHub! I specialize in operating, and optimizing datacenter environments where uptime isn’t just a goal—it’s a guarantee. With a Certified Data Centre Professional (CDCP) credential and hands-on experience in mission-critical infrastructure, I ensure that the backbone of digital transformation stays strong, secure, and scalable.
 
 🔧 Core Competencies
@@ -46,6 +48,7 @@ Certification	Issuing Body
 CDCP (Certified Data Centre Professional)	EPI
 Cisco Certified Networking Basics	Cisco
 Fortinet certified Information Security Awareness	Fortinet
+
 📚 Currently Exploring
 AI for predictive infrastructure management
 Liquid Cooling for Ai based HPC Servers
