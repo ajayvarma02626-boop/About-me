@@ -8,7 +8,6 @@ Short Intro
 
 💞️ I’m looking to collaborate on open-source AI/ML projects, innovative tech solutions, and research papers
 
-📫 How to reach me on GitHub [https://github.com/Ajaytesla026] ⚡ Fun fact: Ai Enthusiastic
 
 <img width="1280" height="1600" alt="image" src="https://github.com/user-attachments/assets/d3332027-1039-4a4f-bfb7-af4c592f4b35" />
 
